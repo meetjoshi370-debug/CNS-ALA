@@ -1,1 +1,1 @@
-https://ala-2-cns-meet.netlify.app
+https://meet-cns-ala-2.netlify.app
